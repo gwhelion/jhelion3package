@@ -1,6 +1,5 @@
-jhelion3package
-===============
-
+jhelion3
+========
 Jest to pierwsza wersja wtyczki przeznaczona dla Joomla w wersji 3.x, dlatego może zawierać drobne błędy. Wszystkie uwagi, propozycje zmian prosimy kierować na nasze Forum Programu Partnerskiego. Zestaw zawiera:
 
 	Komponent Helion Księgarnia - pozwala na tworzenie kopii wybranej księgarni na stronie.
@@ -17,6 +16,12 @@ Jest to pierwsza wersja wtyczki przeznaczona dla Joomla w wersji 3.x, dlatego mo
 
 	Helion Losowa Książka - ten moduł wyświetla jedną spośród wielu wybranych przez Ciebie książek z różnych księgarni Grupy Helion.
 
+	Helion Serie - pozwala na umieszczenie listy serii danej księgarni np. w bocznym menu.
+
 1) Instalacja
 ----------------------------------
 Należy pobrać paczkę *.zip i zainstalować przy użyciu menedżera rozszerzeń.
+
+
+
+
